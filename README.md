@@ -1,2 +1,4 @@
-# Projeto Diamond Solution
- Page site da empressa, utilizando HTML e CSS, seguindo a metodologia BEM.
+# Projeto HTML
+ Page site da empressa Dimond Solution.
+ Utilizando HTML e CSS, e também a responsividade.
+ Seguindo a metodologia BEM.
