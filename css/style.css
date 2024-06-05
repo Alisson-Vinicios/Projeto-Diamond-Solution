@@ -2,18 +2,18 @@
     font-family: Arial, sans-serif;
 }
 
-.layout__logo{
+.layout-logo{
     width: 100%;
     display: flex;
     justify-content: center;
 }
 
-.layout__links{
+.layout-links{
     background-color: #3F9CC9;
     height: 100px;
 }
 
-.layout__links .container .row .col{
+.layout-links .container .row .col{
     margin-top: 25px;
     border: solid;
     border-radius: 5px;
@@ -23,24 +23,24 @@
     margin-left: 5%;
 }
 
-.layout__links .col a{
+.layout-links .col a{
     text-decoration: none;
     color: white;
 }
 
-.layout__conhecimentos{
+.layout-conhecimentos{
     padding-top: 40px;
 }
 
-.layout__conhecimentos .col{
+.layout-conhecimentos .col{
     color: #235685;
 }
 
-.layout__conhecimentos .col h2{
+.layout-conhecimentos .col h2{
     font-size: 40px;
 }
 
-.layout__servicos-prestados{
+.layout-servicos-prestados{
     margin: 50px;
     text-align: center;
 }
