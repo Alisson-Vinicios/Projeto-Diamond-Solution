@@ -66,3 +66,32 @@
 .quadrado__servicos i{
     font-size: 144px;
 }
+
+.layout-rodape{
+    background-color: #3F9CC9;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.layout-rodape img{
+    width: 120px;
+}
+
+.imagem__logo{
+    display: flex;
+    margin-top: 10%;
+}
+.layout-rodape h3{
+    font-size: 27px;
+}
+
+.layout-rodape li{
+    font-size: 18px;
+}
+
+.layout-rodape i{
+    font-size: 32px;
+    padding: 15px;
+}
